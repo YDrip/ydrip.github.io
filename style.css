@@ -10,13 +10,32 @@ a {
   /*color: #6badc9 !important;*/
 }
 
+.btn {
+    color: #333;
+}
+
+.navbar-brand {
+    color: #001531;
+}
+
 #water_meter_animation{
   object-fit: initial;
-  width: 640px;
-  height: 360px;
+  width: 100%;
+
 }
 
 
+#subscription_email {
+    width: 100%;
+}
 #sib-container,.sib-form {
     padding: 0;
+}
+#sib-container {
+    background: transparent;
+    color: black;
+}
+
+main {
+    background: linear-gradient(to bottom, #3c9fc3, #2d7792);
 }
