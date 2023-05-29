@@ -24,6 +24,9 @@ a {
 
 }
 
+.navbar-toggler-icon {
+    filter: invert(100%);
+}
 
 #subscription_email {
     width: 100%;
@@ -35,7 +38,12 @@ a {
     background: transparent;
     color: black;
 }
-
+.sib-form-block {
+    padding: 0;
+}
 main {
     background: linear-gradient(to bottom, #3c9fc3, #2d7792);
+}
+.join-list-text {
+    color: #212529;
 }
