@@ -31,6 +31,15 @@ a {
 #subscription_email {
     width: 100%;
 }
+
+main {
+    background: linear-gradient(to bottom, #3c9fc3, #2d7792);
+}
+.join-list-text {
+    color: #212529;
+}
+
+
 #sib-container,.sib-form {
     padding: 0;
 }
@@ -40,10 +49,4 @@ a {
 }
 .sib-form-block {
     padding: 0;
-}
-main {
-    background: linear-gradient(to bottom, #3c9fc3, #2d7792);
-}
-.join-list-text {
-    color: #212529;
 }
