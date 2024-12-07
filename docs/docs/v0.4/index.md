@@ -119,7 +119,7 @@ You should also change your fallback hotspot SSID and password.
 
 To keep your YDrip device updated:
 
-1. Download the latest firmware from the [YDrip GitHub releases page](https://github.com/ydrip-esphome/releases).
+1. Download the latest firmware from the [YDrip GitHub releases page](https://github.com/YDrip/ydrip-pcb/releases).
 2. Use the ESPHome Webtool or the Home Assistant ESPHome add-on to flash the firmware to your device.
 
 ---
