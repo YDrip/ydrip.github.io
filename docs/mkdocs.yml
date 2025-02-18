@@ -1,7 +1,0 @@
-site_name: YDrip
-theme: readthedocs
-nav:
-  - Home: index.md
-  - Release Notes: release-notes.md
-  - Hardware Version 0.4:
-      - Overview: v0.4/index.md
